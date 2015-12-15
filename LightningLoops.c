@@ -1,3 +1,5 @@
+//Created by Collin Klenke and Ryan Mackey
+
 #include<stdio.h>
 #include"gfx5.h"
 #include "gfxe.h"
